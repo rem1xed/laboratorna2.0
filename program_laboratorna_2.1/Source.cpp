@@ -17,11 +17,17 @@ int main()
 
 	cin.get();
 	//edit 1
+<<<<<<< HEAD
 
 	//edit 1 master branch
 	//edit 2 master branch
 
 	//edit 1 to local
 	//edit 2 to local
+=======
+	//edit 2
+	//NewBranch edit 1
+	//NewBranch edit 2
+>>>>>>> NewBranch
 	return 0;
 }
