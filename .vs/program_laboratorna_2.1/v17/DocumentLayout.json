@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\program_laboratorna_2.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21D15CD8-7946-4318-91AC-4337795FBC6E}|program_laboratorna_2.1\\program_laboratorna_2.1.vcxproj|C:\\Users\\User\\source\\repos\\program_laboratorna_2.1\\program_laboratorna_2.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21D15CD8-7946-4318-91AC-4337795FBC6E}|program_laboratorna_2.1\\program_laboratorna_2.1.vcxproj|solutionrelative:program_laboratorna_2.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{21D15CD8-7946-4318-91AC-4337795FBC6E}|program_laboratorna_2.1\\program_laboratorna_2.1.vcxproj|C:\\Users\\User\\source\\repos\\program_laboratorna_2.1\\program_laboratorna_2.1\\Lab_02.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D15CD8-7946-4318-91AC-4337795FBC6E}|program_laboratorna_2.1\\program_laboratorna_2.1.vcxproj|solutionrelative:program_laboratorna_2.1\\Lab_02.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,16 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\program_laboratorna_2.1\\program_laboratorna_2.1\\Source.cpp",
-              "RelativeDocumentMoniker": "program_laboratorna_2.1\\Source.cpp",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\program_laboratorna_2.1\\program_laboratorna_2.1\\Source.cpp",
-              "RelativeToolTip": "program_laboratorna_2.1\\Source.cpp",
-<<<<<<< HEAD
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
-=======
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
->>>>>>> NewBranch
+              "Title": "Lab_02.1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\program_laboratorna_2.1\\program_laboratorna_2.1\\Lab_02.1.cpp",
+              "RelativeDocumentMoniker": "program_laboratorna_2.1\\Lab_02.1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\program_laboratorna_2.1\\program_laboratorna_2.1\\Lab_02.1.cpp",
+              "RelativeToolTip": "program_laboratorna_2.1\\Lab_02.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-15T15:11:34.083Z",
               "EditorCaption": ""
